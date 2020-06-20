@@ -1,6 +1,6 @@
 # mx
 
-## CLI command for making a copy of an image, while scaling it propertionally based on an input parameter.
+## CLI command for resizing an image
 
 ### Setup
 
